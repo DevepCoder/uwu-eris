@@ -1,0 +1,15 @@
+{
+  "name": "uwu-eris",
+  "version": "1.0.0",
+  "description": "A bot that uwufies and it's made with Eris",
+  "main": "index.js",
+  "dependencies": {
+    "eris": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "DevepCoder",
+  "license": "GNU General Public License 3.0"
+}

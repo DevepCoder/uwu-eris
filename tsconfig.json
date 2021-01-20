@@ -1,0 +1,13 @@
+{
+  "include": ["./src/**/*", "./configuration/**/*"],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "outDir": "dist/",
+    "target": "es6",                          
+    "strict": true,                           
+    "esModuleInterop": true,                  
+    "skipLibCheck": true,                     
+    "forceConsistentCasingInFileNames": true  
+  }
+}
